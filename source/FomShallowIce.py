@@ -15,6 +15,7 @@ from source.FomTime import FomTime
 
 
 class FomShallowIce(FomTime):
+    "code is adjusted from a script provided by John Jakeman, Sandia"
 
     # physics variables
     A = 1e-4
@@ -25,6 +26,7 @@ class FomShallowIce(FomTime):
     beta = 1e+16
 
     def __init__(self, Lx=1000, Lz=1, orders=None, bc_type="N", dt=1e-3, init_time=0, final_time=1e1):
+        "code is adjusted from a script provided by John Jakeman, Sandia"
         # credit to John Jakeman
 
         # spacial discretization
