@@ -2,8 +2,8 @@
 
 This repository provides the code basis for the publication
 
-Enforcing structure in data-driven reduced modeling through nested Operator Inference \n
-by Nicole Aretz, Karen Willcox (UT Austin) \n
+Enforcing structure in data-driven reduced modeling through nested Operator Inference <br>
+by Nicole Aretz, Karen Willcox (UT Austin) <br>
 submitted to CDC24 Conference Proceedings
 
 The training and testing data, as well as the trained models, are available for download at:
