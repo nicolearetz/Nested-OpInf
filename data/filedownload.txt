@@ -1,3 +1,9 @@
 The training and testing data, as well as the trained models, are available for download at: https://utexas-my.sharepoint.com/:f:/g/personal/nicole_aretz_austin_utexas_edu/EuvnMU4Puv9IkRaoiMdLEWsBRFTqFmWHJ2mqJyJJAMNBMQ?e=5Vvw9A
 
 Download them into this folder.
+
+"opinf_standard": the model learned with regularized OpInf, r<=8 (notebook 2)
+"RB_slicer": the training data and the selected reduced space (notebook 1)
+"intrusive": the intrusive ROM for r<=5 (notebook 3)
+"fom_1e-3": the training and testing data (notebooks 1 and 5)
+"nested_regularized_3": the model learned with nested OpInf, r<=7 (notebook 4)
